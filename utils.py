@@ -41,7 +41,7 @@ def markdown_table(df):
     return df_formatted.to_csv(sep="|", index=False, encoding='utf-8', quotechar="*")
 
 def preview(connector, tables):
-    all_tables_string = "### `declassification_cables` preview \n\n"
+    all_tables_string = ""
     for table in tables:
         df_head = pd.read_sql('SELECT * FROM ' + table + ' LIMIT 5;', con=connector)
         for col in df_head.columns:
@@ -61,7 +61,7 @@ def results_to_md(name, preview):
         pass
 
     f = codecs.open(results_filepath, encoding='utf-8', mode="w+")
-    f.write(unicode(result_string,'utf-8'))
+    f.write(result_string)
     
 def df_sample(connector, table, limit):
     return pd.read_sql("SELECT * FROM " + table + " LIMIT " + str(limit) + ";", con=connector)
