@@ -1,0 +1,901 @@
+tavID,typeID,stdName,type
+1,6,heritage,keyConcept
+2,6,relic,keyConcept
+3,6,collecting,discourse
+4,6,history,discourse
+5,6,writing,discourse
+6,6,philology,discourse
+7,6,monument,keyConcept
+8,6,sculpture,discourse
+9,6,literature,discourse
+10,6,geography,discourse
+11,6,museums,discourse
+12,6,anthropology,discourse
+13,6,nature,keyConcept
+14,6,the other,keyConcept
+15,6,economics,discourse
+16,6,fine arts,discourse
+17,6,origin,keyConcept
+18,6,space,keyConcept
+19,6,architecture,discourse
+20,6,natural history,discourse
+21,6,exhibitions,discourse
+22,6,body,keyConcept
+23,6,progress,discourse
+24,6,exoticism,discourse
+25,6,painting/drawing,discourse
+26,6,education,discourse
+27,6,medicine,discourse
+28,6,social question,discourse
+29,6,folklore,discourse
+30,1,Jõao VI,politician
+31,1,Pedro I,politician
+32,1,"Azevedo, Frei José da Costa",scientist
+33,1,Imperatriz Leopoldina,other
+34,1,"Martius, Karl Friedrich von",scientist
+35,1,"Spix, Johann Baptist von",scientist
+36,1,"Wied-Neuwied, Maximilian von",scientist
+37,1,"Langsdorff, baron Grigori Ivanovitch",scientist
+38,1,"Saint-Hilaire, Auguste de",scientist
+39,1,"Andrada e Silva, José Bonifácio de",politician
+40,1,Pabst von Ohain,scientist
+41,1,"Bougainville, Louis-Antoine de",scientist
+42,1,"Du Petit-Thouars, Aubert",scientist
+43,1,"Ribeyrolles, Charles",scientist
+44,1,Castelnau,scientist
+45,1,"Agassiz, Jean Louis Rodolphe",scientist
+46,1,Pedro II,politician
+47,1,"Alves Serrão, Frei Custódio",scientist
+48,1,"Netto, Ladislau",scientist
+49,1,"Lacerda, João Baptista de",scientist
+50,1,"Figueiredo e Melo, Pedro Américo de",artist
+51,1,"Couty, Louis",scientist
+52,1,"Bocaiuva, Quintino",politician
+53,1,"Müller, Fritz",scientist
+54,1,Hermann von Ihering,scientist
+55,1,"Schwacke, Wilhelm",scientist
+56,1,"Derby, Orville",scientist
+57,1,"Goeldi, Emil August",scientist
+58,1,"Peixoto, Floriano",politician
+59,1,"Freitas, Domingos",scientist
+60,1,"Ihering, Hermann von",scientist
+61,1,João Baptista de Lacerda,scientist
+62,1,Moreira de Azevedo,letrado
+63,1,Ladislau Netto,scientist
+64,1,"Gautier, Léon",letrado
+65,1,"Villares, Decio",artist
+66,1,"Figueiredo e Melo, Aurélio de",artist
+67,1,"Pitt-Rivers, Augustus Henry Lane-Fox",scientist
+68,1,Augustus Henry Lane-Fox Pitt-Rivers,scientist
+69,1,"Borges, Jorge Luis",letrado
+70,1,"Brown Goode, George",scientist
+71,1,"Lacerda, João Baptista deLacerda, João Baptista de",scientist
+72,3,"Museu Nacional, Rio de Janeiro",academic
+73,3,"Casa dos Pássaros, Rio de Janeiro",academic
+74,3,"Jardim Botanico, Belém",academic
+75,3,"Seminário de Olinda, Brazil",academic
+76,3,"Jardim Botanico, Rio de Janeiro",academic
+77,3,"Mesa de Consciência e Ordem, Rio de Janeiro",govt
+78,3,"Academia de Guardas Marinas, Rio de Janeiro",academic
+79,3,"Escola de Cirurgia e Medicina, Rio de Janeiro",academic
+80,3,"Imprensa Real, Brazil",govt
+81,3,"Escola Militar, Rio de Janeiro",academic
+82,3,"British Museum, London",academic
+83,3,Muséum de Paris,academic
+84,3,the Brazilian army,military
+85,3,"Archivos do Museu Nacional, Rio de Janeiro",academic
+86,3,the Brazilian Court,govt
+87,3,"Congresso Constituinte, Rio de Janeiro",govt
+88,3,"Museu Nacional, Rio de Janeirol",academic
+89,3,"Museu Paraense, Belém",academic
+90,3,"Museu Paulista, São Paulo",academic
+91,2,Brazil,country
+92,2,Coimbra,city
+93,2,Lisbon,city
+94,2,Portugal,country
+95,2,Rio de Janeiro,city
+96,2,Munich,city
+97,2,Macao,city
+98,2,Aleutian isles,geogfeature
+99,2,"Pará, Brazil",region
+100,2,"Matto Grosso, Brazil",region
+101,2,France,country
+102,2,Paris,city
+103,2,Berlin,city
+104,2,"Quinta de Boa Vista, Rio de Janeiro",other
+105,2,Belém,city
+106,2,Curitiba,city
+107,2,São Paulo,city
+108,2,"Campo de Santana, Rio de Janeiro",other
+109,2,"Ilha de Marajó, Brazil",geogfeature
+110,2,"Rio Grande do Sul, Brazil",region
+111,2,"São Pedro de Alcantara, Brazil",townvillage
+112,2,Spain,country
+113,2,England,country
+114,2,Holland,country
+115,2,Belgium,country
+116,2,Prussia,country
+117,2,Sweden,country
+118,2,Denmark,country
+119,2,Austria,country
+120,2,Hungary,country
+121,2,Germany,country
+122,2,Hamburg,city
+123,2,Hannover,city
+124,2,"Brandenburg, Germany",region
+125,2,Frankfurt,city
+126,2,"Bavaria, Germany",region
+127,2,"Wurttemberg, Germany",region
+128,2,"Baden, Germany",region
+129,2,"Saxony, Germany",region
+130,2,Russia,country
+131,2,Poland,country
+132,2,Turkey,country
+133,2,Tunisia,country
+134,2,Ceylon,country
+135,2,Algeria,country
+136,2,Egypt,country
+137,2,Morocco,country
+138,2,Switzerland,country
+139,2,Italy,country
+140,2,Sardinia,region
+141,2,Tuscany,region
+142,2,Lucca,city
+143,2,Venice,city
+144,2,Milan,city
+145,2,the Vatican,country
+146,2,United States of America,country
+147,2,Mexico,country
+148,2,Chile,country
+149,2,Bolivia,country
+150,2,Peru,country
+151,2,Colombia,country
+152,2,Buenos Aires,region
+153,2,Montevideo,city
+154,2,Buenos Aires,city
+155,2,"Goiaz, Brazil",region
+156,2,"Espirito Santo, Brazil",region
+157,2,Geneva,city
+158,1,"Zani, Ricardo",scientist
+159,1,"Descourtilz, Jean Théodore",scientist
+160,1,"Gand, Alfred Sohier de",scientist
+161,1,"Brunet, Louis Jacques",scientist
+162,1,"Brassus, Jules Audemars de",scientist
+163,1,"Baraquin, Arsène Onessim",scientist
+164,1,"Riedel, Lutz",scientist
+165,1,"Peckolt, Theodor",scientist
+166,1,"Hartt, Charles Frederick",scientist
+167,1,"Derby, Orville Adalbert",scientist
+168,1,"Schreiner, Carlos",scientist
+169,1,"Rumpelsberger, Gustav",scientist
+170,1,"Rumpelsberger, Ernst",scientist
+171,1,"Ule, Ernst",scientist
+172,1,"Darwin, Charles",scientist
+173,3,"Laboratório de Fisiologia Experimental, Rio de Janeiro",academic
+174,6,exotism,discourse
+175,1,"Denis, Ferdinand",letrado
+176,1,"Bougainville, Hyacinthe de",scientist
+177,1,"Bougainville, Louis Antoine de",scientist
+178,1,"Castelnau, Francis de La Porte, Comte de",scientist
+179,1,"Richet, Charles",scientist
+180,1,"Nordenskjöld, Otto",scientist
+181,6,landscape,discourse
+182,6,cartography,discourse
+183,6,photography,discourse
+184,1,"Barros, Alvaro",military
+185,1,"Echeverría, Esteban",letrado
+186,1,"Zeballos, Estanislao Severo",letrado
+187,1,"Holmberg, Eduardo L.",letrado
+188,1,"Burmeister, Karl Hermann",scientist
+189,1,"Sarmiento, Domingo Faustino",letrado
+190,1,"Roca, Julio Argentino",politician
+191,1,"Rosas, Mariano (Panghitruz Guor)",other
+192,1,"Mansilla, Lucio Victorio",letrado
+193,1,"Gutiérrez, Eduardo",letrado
+194,1,"Ébélot, Alfred",letrado
+195,1,"Alsina, Adolfo",politician
+196,1,"Lista, Ramón",scientist
+197,1,"Hudson, William Henry",letrado
+198,1,"Cunninghame Grahame, Robert",letrado
+199,1,"Lista, Ramón",letrado
+200,1,"Moreno, Francisco Pascasio",scientist
+201,1,"Conrad, Joseph",letrado
+202,1,"Quiroga, Horacio",letrado
+203,1,"Hernández, José",letrado
+204,1,"Fierro, Martín",other
+205,1,"Fontana, Luis Jorge",letrado
+206,1,"Ocantos, Carlos María",letrado
+207,3,"Museo Nacional de Ciencias Naturales 'Bernardino Rivadavia', Buenos Aires",academic
+208,3,Instituto Geográfico Argentino,academic
+209,3,"Révue des Deux Mondes, Paris",socialcultural
+210,3,"El Río de la Plata, Buenos Aires",socialcultural
+211,3,the market,commercialindustrial
+212,3,Museo de La Plata,academic
+213,2,Patagonia,region
+214,2,"Chaco, Argentina",region
+215,2,"Azul, Argentina",townvillage
+216,2,Río de La Plata,region
+217,2,"Río Negro, Argentina",geogfeature
+218,2,Pampa,geogfeature
+219,2,"La Boca, Argentina",townvillage
+220,1,"Carranza, Adolfo P.",letrado
+221,1,"Lamas, Andrés",letrado
+222,1,"Carranza, Angel Justiniano",letrado
+223,1,"Avellaneda, Nicolás",politician
+224,1,"San Martín, José de",military
+225,1,"Tejedor, Carlos",politician
+226,1,"Seeber, Francisco",politician
+227,1,"Alberdi, Juan Bautista",letrado
+228,1,"Juárez Celman, Miguel",politician
+229,1,"Mitre, Bartolomé",politician
+230,1,"Alem, Leandro",politician
+231,1,"Yrigoyen, Hipólito",politician
+232,1,"Pellegrini, Carlos",politician
+233,1,"Mantilla, Manuel",letrado
+234,1,"Garmendia, José I.",letrado
+235,1,"Cárcano, Ramón",politician
+236,1,"Zapiola, José Matías",military
+237,1,"Hornos, Manuel",military
+238,1,"Vega, Nicolás de",military
+239,1,"Belgrano, Manuel",military
+240,1,"San Martín y Balcarce, Josefa de",other
+241,1,"Rosas de Terrero, Manuela",other
+242,1,"Rosas, Juan Manuel de",politician
+243,1,"Quiroga, Facundo",politician
+244,1,"Peñaloza, Vicente",politician
+245,1,"López Jordán, Ricardo",politician
+246,1,"Güemes, Manuel",military
+247,1,"Paz, José María",military
+248,1,"Rivadavia, Bernardino",politician
+249,1,"Mansilla, Lucio Norberto",military
+250,1,"Lavalle, Juan",military
+251,1,"Cambaceres, Eugenio",letrado
+252,1,"Martel, Julián",letrado
+253,1,"Quesada, Ernesto",letrado
+254,1,"Bolívar, Simón",politician
+255,1,"Pradère, Juan A.",letrado
+256,1,"Dellepiane, Antonio",letrado
+257,1,"Subercaseaux, Pedro",artist
+258,1,"Uriburu, Napoleón",military
+259,3,"Museo Histórico Nacional, Buenos Aires",academic
+260,3,"Archivo General de la Nación, Buenos Aires",govt
+261,3,"Comisión de la Exposición Histórica, Buenos Aires",socialcultural
+262,3,Gobierno de la Provincia de Buenos Aires,govt
+263,3,Comisión Nacional Inspectora,commercialindustrial
+264,3,Colegio Nacional de Buenos Aires,academic
+265,3,"Partido Autonomista Nacional, Argentina",socialcultural
+266,3,"Revista Nacional, Buenos Aires",socialcultural
+267,3,Bolsa de Valores de Buenos Aires,commercialindustrial
+268,3,"Partido Liberal, Argentina",socialcultural
+269,3,"Unión Cívica Radical, Argentina",socialcultural
+270,3,Ejército Federal Argentino,military
+271,3,Unión Cívica Radical,socialcultural
+272,3,"Comisión Organizadiora, Museo Histórico Nacional, Buenos Aires",academic
+273,3,Municipalidad de Buenos Aires,govt
+274,3,Oficina Química de la Ciudad de Buenos Aires,academic
+275,3,"Jardín Botánico, Buenos Aires",socialcultural
+276,3,"Ministerio del Interior, Argentina",govt
+277,3,La Sorbonne,academic
+278,3,"Instituto de Historia Argentina, Facultad de Filosofía y Letras, Buenos Aires",academic
+279,2,Argentina,country
+280,2,La Plata,city
+281,2,Paraguay,country
+282,2,"Belgrano, Argentina",townvillage
+283,2,"Córdoba, Argentina",region
+284,2,"San Luis, Argentina",region
+285,2,"Santa Fe, Argentina",region
+286,2,"Tucumán, Argentina",region
+287,2,"Misiones, Argentina",region
+288,2,Boulogne-sur-mer,city
+289,1,"Livingstone, David",scientist
+290,1,"Franklin, John",scientist
+291,1,Strobel,scientist
+292,1,"Dillon, Justo",letrado
+293,1,"Quesada, Vicente Gil",politician
+294,1,Calfucurá,other
+295,1,"Catriel, Juan José",other
+296,1,"Broca, Paul",scientist
+297,1,"Quatrefages de Bréau, Jean Louis Armand de",scientist
+298,1,Van Benden,scientist
+299,1,"Sarmiento, Domingo Fausrtino",letrado
+300,1,"Ameghino, Florentino",scientist
+301,1,"Moreno, Francisco",scientist
+302,1,"Rocha, Dardo",politician
+303,1,Sayeweke,other
+304,1,Inakayal,other
+305,1,Foyel,other
+306,1,"Alvarez de Toledo, Ramón",letrado
+307,1,Spegazzini,scientist
+308,1,"Ten Kate, Herman",scientist
+309,1,Maishkensis,other
+310,1,"Lafone Quevedo, Samuel",scientist
+311,1,"Ambrosetti, Juan Bautista",scientist
+312,1,"Mercerat, Alcide",scientist
+313,1,"Hauthal, Rudolf",scientist
+314,1,"Lahille, Fernand",scientist
+315,1,"Alboff, Nicolai",scientist
+316,1,"Lehmannn-Nitsche, Robert",scientist
+317,1,"González, Joaquín V.",politician
+318,1,"Olascoaga, Manuel José",scientist
+319,1,"Slick, Sam",other
+320,1,Sapo,other
+321,1,"Heynemann, Karl Friedrich",other
+322,1,"Aberg, Henrik",other
+323,1,"Del Pol, Víctor",artist
+324,1,"Lugones, Leopoldo",letrado
+325,1,"Rojas, Ricardo",letrado
+326,1,"Bouchet, José",artist
+327,1,"Ballerini, Augusto",artist
+328,1,"Giúdice, Reynaldo",artist
+329,1,"Lehmann-Nitsche, Robert",scientist
+330,1,"Cole, Henry",scientist
+331,1,"Gaudry, Albert",scientist
+332,3,Universidad Nacional de La Plata,academic
+333,3,Sociedad Científica Argentina,academic
+334,3,Universidad de Buenos Aires,academic
+335,3,"Facultad de Ciencias Exactas, Buenos Aires",academic
+336,3,"Teatro Colón, Buenos Aires",socialcultural
+337,3,"Ministerio de Instrucción Pública, Buenos Aires",govt
+338,3,Sociedad Geográfica Argentina,academic
+339,3,"Museo Etnográfico, Buenos Aires",academic
+340,2,Africa,other
+341,2,the southern Pampas,region
+342,2,"Patagonia, Argentina",region
+343,2,"Santiago del Estero, Argentina",region
+344,2,Mongolia,country
+345,2,Greenland,other
+346,2,Neanderthal,geogfeature
+347,2,Lago Argentino,geogfeature
+348,2,"Valles calchaquíes, Argentina",region
+349,2,Uruguay,country
+350,2,Andes,geogfeature
+351,2,"Tierra del Fuego, Argentina",region
+352,2,"Isla Martín García, Argentina",geogfeature
+353,2,Europe,other
+354,2,"Chubut, Argentina",region
+355,2,"Monte Hermoso, Argentina",townvillage
+356,2,Córdoba,city
+357,2,"Nahuel Huapí lake, Argentina",geogfeature
+358,2,America,other
+359,2,"Palermo, Buenos Aires",other
+360,1,"Ward, Henry A.",scientist
+361,1,"Gonnet, Luis María",politician
+362,1,"Cuvier, Georges Baron de",scientist
+363,1,"Lamarck, Jean Baptiste de Monet",scientist
+364,1,"Torres, Manuel",scientist
+365,1,"Muñiz, Francisco Javier",scientist
+366,1,"Humboldt, Alexander von",scientist
+367,1,"Agassiz, Jean Louis Adolphe",scientist
+368,1,"Bismarck, Otto Fuerst von",politician
+369,1,"Mármol, José",letrado
+370,1,"Berg, Carlos",scientist
+371,1,"Rodríguez, Martín",politician
+372,1,"Carta, Pedro",scientist
+373,1,"De Ferraris, Carlos",scientist
+374,1,"Beaumont, J. A. B.",other
+375,1,"Trelles, Manuel",letrado
+376,1,"Demarchi, Antonio",scientist
+377,1,"Torres, Santiago",scientist
+378,1,"Bravard, Auguste",scientist
+379,1,"Urquiza, Justo José de",politician
+380,1,"Gutiérrez, Juan María",letrado
+381,1,"Gülich, Friedrich von",politician
+382,1,"Séguin, François",scientist
+383,3,"Gabinete de Historia Natural, Madrid",academic
+384,3,Royal Prussian University of Halle,academic
+385,3,"Biblioteca Nacional, Buenos Aires",academic
+386,3,"Asociación de Amigos de la Historia Natural del Plata, Buenos Aires",socialcultural
+387,3,"Instituto Histórico-Geográfico del Río de la Plata, Montevideo",socialcultural
+388,3,"Instituto Histórico e Geográfico Brasileiro, Rio de Janeiro",academic
+389,3,"Facultad de Medicina, Universidad de Buenos Aires",academic
+390,3,"Academia Nacional de Ciencias Exactas, Córdoba",academic
+391,3,Academia Nacional de Ciencias Exactas,academic
+392,3,"Congreso de la Nación, Argentina",govt
+393,3,Ejército Argentino,military
+394,3,"Jardín Zoológico, Buenos Aires",socialcultural
+395,3,"Museo Nacional de Historia Natural, Montevideo",academic
+396,3,"Museo Nacional de Bellas Artes, Buenos Aires",academic
+397,3,"Facultad de Filosofía y Letras, Universidad de Buenos Aires",academic
+398,2,London,city
+399,2,"Luján, Argentina",townvillage
+400,2,Madrid,city
+401,2,Plata basin,region
+402,2,Latin America,other
+403,2,"Parque Centenario, Buenos Aires",other
+404,2,"Manzana de las Luces, Buenos Aires",other
+405,2,"Convento de Santo Domingo, Buenos Aires",other
+406,2,South America,other
+407,2,"Herculanaeum, Italy",townvillage
+408,2,"Pompeii, Italy",townvillage
+409,2,Confederación Argentina,country
+410,2,"Auvergne, France",region
+411,2,"Paraná, Argentina",city
+412,2,Mendoza,city
+413,2,Naples,city
+414,6,exonomics,discourse
+415,1,"Echaurren Huidobro, Federico",politician
+416,1,"Vergara, José Francisco",politician
+417,1,"Ibáñez del Campo, Carlos",politician
+418,3,Ferrocarril Santiago-Valparaíso,commercialindustrial
+419,3,El Mercurio de Valparaíso,socialcultural
+420,3,Club Viña del Mar,socialcultural
+421,3,Valparaíso Sporting Club,socialcultural
+422,3,"Teatro Municipal, Viña del Mar",socialcultural
+423,2,Santiago de Chile,city
+424,2,Valparaíso,city
+425,2,Viña del Mar,city
+426,2,Chile Central,region
+427,2,"Cerro Alegre, Chile",geogfeature
+428,2,"Cerro Concepción, Chile",geogfeature
+429,2,"El Almendral, Chile",geogfeature
+430,2,"Cerro Barón, Chile",geogfeature
+431,2,"Fundo Siete Hermanas, Chile",geogfeature
+432,2,"Cordillera de la Costa, Chile",geogfeature
+433,2,"El Salto, Chile",geogfeature
+434,2,"Marga-Marga estuary, Chile",geogfeature
+435,2,"Población Vergara, Chile",townvillage
+436,2,Santiago,city
+437,2,"Las Salinas, Chile",geogfeature
+438,2,"Chorrillos, Chile",townvillage
+439,2,"Miraflores, Chile",townvillage
+440,2,"Miramar beach, Chile",geogfeature
+441,1,"Fenton, Roger",artist
+442,1,"Brady, Matthew",artist
+443,1,"García, Esteban",artist
+444,1,"Pozzo, Antonio",artist
+445,1,"De Palleja, León",military
+446,1,"Gras, Amadeo",artist
+447,1,"Peñaloza, Vicente 'el Chacho' de",politician
+448,1,Pincén,other
+449,1,"Ingenieros, José",scientist
+450,1,"Veyga, Francisco",scientist
+451,1,"Alvarez, José S. ('Fray Mocho')",letrado
+452,1,"Korn, Alejandro",letrado
+453,1,"Santos Godino, Cayetano ('el Petiso Orejudo')",other
+454,1,"Bentham, Jeremy",scientist
+455,1,"Vucetich, Juan",scientist
+456,3,W. Bate & Cía,commercialindustrial
+457,3,"Servicio de Observación de Alienados, Argentina",govt
+458,3,Intendencia de la ciudad de Buenos Aires,govt
+459,3,"La Prensa, Buenos Aires",socialcultural
+460,3,"El Nacional, Buenos Aires",socialcultural
+461,2,"Santa Fe, Argentina",townvillage
+462,1,"Santos Godino, Cayetano",other
+463,1,"Peñaloza, Ángel Vicente 'el Chacho'",military
+464,1,"De Santa-Anna Nery, Federico J.",letrado
+465,1,"Lastarria, José Victorino",letrado
+466,1,"Bilbao, Francisco",letrado
+467,1,"Da Silva Prado, Antonio",politician
+468,1,"Monod, Émile",letrado
+469,1,"Cavalcanti, Visconde de",politician
+470,1,"Marx, Karl",letrado
+471,1,"Edison, Thomas Alva",scientist
+472,1,"Silva Paranhos Júnior, José Maria da ( barão do Rio Branco)",politician
+473,1,"Da Silva Prado, Eduardo",politician
+474,1,"Cambaceres, Antonio C.",other
+475,1,"Constant, Benjamin",letrado
+476,1,"Ballu, Charles",other
+477,1,"Da Silva-Prado, Eduardo",letrado
+478,3,Comité Franco-Brasileiro,commercialindustrial
+479,3,"Oficina de Información y Propaganda, Argentina",govt
+480,2,Chicago,city
+481,2,Río de la Plata Nations,other
+482,2,Hispanic America,other
+483,2,"Champ de Mars, Paris",other
+484,2,"Eiffel Tower, Paris",other
+485,2,"Pampa, Argentina",region
+486,2,Amazon River,geogfeature
+487,2,Tocantins River,geogfeature
+488,2,Madeira River,geogfeature
+489,2,São Francisco River,geogfeature
+490,2,Parnaíba River,geogfeature
+491,2,Paraná River,geogfeature
+492,1,"Caro, Manuel Antonio",artist
+493,1,"O'Higgins, Bernardo",military
+494,1,"Guzman, Nicolás",artist
+495,1,"Smith, Antonio",artist
+496,1,"Jarpa, Onofre",artist
+497,1,"Lira, Pedro",artist
+498,1,"Plaza, Nicanor",artist
+499,1,"Bunge, Carlos Octavio",letrado
+500,1,"Ingenieros, José",letrado
+501,1,"Delachaux, Henri",scientist
+502,1,Woodbine Parish,politician
+503,1,"de Moussy, Martin",scientist
+504,1,"Napp, Ricardo",scientist
+505,1,"González, Joaquín V.",letrado
+506,1,"Torres, Luis María",scientist
+507,1,"Outes, Félix",scientist
+508,1,"Flinders Petrie, W. M.",letrado
+509,1,"Holmes, William H.",scientist
+510,1,"Bruch, Carlos",scientist
+511,1,Delachaux,scientist
+512,1,"Ravignani, Emilio",letrado
+513,3,"Museo Naval de la Nación, Buenos Aires",academic
+514,3,"Museo de la Policía Federal, Buenos Aires",academic
+515,3,Museo de Paraná,academic
+516,3,"Academia Nacional de Ciencias, Córdoba",academic
+517,3,"Escuela de Geografía, Buenos Aires",academic
+518,3,"Departamento de Arqueología y Etnografía, Museo de La Plata",academic
+519,2,"Gobernación de La Pampa, Argentina",region
+520,2,"Jujuy, Argentina",region
+521,2,"Salta, Argentina",region
+522,2,"Catamarca, Argentina",region
+523,2,"La Rioja, Argentina",region
+524,2,"San Juan, Argentina",region
+525,2,"Mendoza, Argentina",region
+526,2,"Neuquén, Argentina",region
+527,2,"Río Negro, Argentina",region
+528,2,"Santa Cruz, Argentina",region
+529,2,"Diaguito-Calchaquí region, Argentina",region
+530,3,"Sección Zoología, Museo de La Plata",academic
+531,3,"Sección de Geografía, Facultad de Filosofía y Letras, Universidad de Buenos Aires",academic
+532,1,"Pérez, José Joaquín",politician
+533,1,"Menadier, Julio",other
+534,1,"Prado, Santiago",politician
+535,1,"Gay, Claude",scientist
+536,1,"Covarrubias, Alvaro",other
+537,1,"Vicuña Mackenna, Benjamín",letrado
+538,1,"Echaurren Huidobro, Francisco",politician
+539,1,"Beauchef, Manuel",military
+540,1,"Ortúzar, Benjamín",letrado
+541,1,"Ovalle, Ruperto",letrado
+542,1,"Bezanilla, Domingo",letrado
+543,1,"Bezanilla, Domingo",other
+544,1,"Larraín Moxó, Rafael",other
+545,1,"De la Barra, José Miguel",undefined
+546,3,"Ferrocarril del Sur, Santiago de Chile",commercialindustrial
+547,3,Comisión Organizadora de la Exposición Nacional de Agricultura,commercialindustrial
+548,3,Agricultural Schools,commercialindustrial
+549,3,"Sociedad Nacional de Agricultura, Chile",commercialindustrial
+550,3,"Guardia Nacional, Chile",military
+551,3,"Guardia Municipal, Santiago",military
+552,3,British Commission Houses,commercialindustrial
+553,3,"Balfour and Company, England",commercialindustrial
+554,3,"Thomas Bradford, England",commercialindustrial
+555,3,"R. Moreland and Son, England",commercialindustrial
+556,3,"New British Iron Co., London",commercialindustrial
+557,3,"M. Allcock, Manchester, England",commercialindustrial
+558,3,"Ashby and Jeffery, Stanford, England",commercialindustrial
+559,3,"Charles Burrell, Norfolk, England",commercialindustrial
+560,3,Clayton and Shuttleworth,commercialindustrial
+561,3,"Penney and Company, England",commercialindustrial
+562,3,"Ruston, England",commercialindustrial
+563,3,"Proctor and Company, Lincoln, England",commercialindustrial
+564,3,"Robey and Company, Lincoln, England",commercialindustrial
+565,3,"Ransomes, Sims and Head, Ipswich, England",commercialindustrial
+566,3,"Garret and Sons, Suffolk, England",commercialindustrial
+567,3,"Griffith Browett, Birmingham, England",commercialindustrial
+568,3,"Hatch and Company, Birmingham, England",commercialindustrial
+569,3,"R. Hornsby and Sons, Grantham, England",commercialindustrial
+570,3,"James and Howard, Bedford, England",commercialindustrial
+571,3,"Matthieson and Sons, Edinburgh, Scotland",commercialindustrial
+572,3,"Bailly et Compagnie, Paris",commercialindustrial
+573,3,"Farolés et Fils, Paris",commercialindustrial
+574,3,"E. Ganneron, Paris",commercialindustrial
+575,3,"C. Laburthe, Paris",commercialindustrial
+576,3,"Mabile Frères, Paris",commercialindustrial
+577,3,"Million Guiet et Compagnie, Paris",commercialindustrial
+578,3,"C. E. Piderit, Paris",commercialindustrial
+579,3,"Ransomes, Sims and Head",commercialindustrial
+580,3,"Howard and Grignon, United States",commercialindustrial
+581,3,Buckley,commercialindustrial
+582,3,Governor and Buckley,commercialindustrial
+583,3,"Sociedad Chilena de Agricultura y Colonización, Chile",commercialindustrial
+584,3,"Unions, Chile",commercialindustrial
+585,2,"Fortaleza de Hidalgo, Santiago de Chile",other
+586,2,"Palacio de La Moneda, Santiago de Chile",other
+587,2,Central Chile,region
+588,2,"California, U.S.A.",region
+589,2,Australia,country
+590,2,Caupolicán,region
+591,2,Rural Chile,other
+592,2,Rural Chile,region
+593,2,"Quinta Normal de Agricultura, Santiago de Chile",other
+594,2,"Estación del Ferrocarril del Sur, Santiago de Chile",other
+595,2,Manchester,city
+596,2,"Stanford, England",townvillage
+597,2,"Norfolk, England",region
+598,2,"Lincoln, England",city
+599,2,"Ipswich, England",townvillage
+600,2,"Suffolk, England",region
+601,2,Birmingham,city
+602,2,"Grantham, England",townvillage
+603,2,"Bedford, England",townvillage
+604,2,Edinburgh,city
+605,2,"Viluco Hacienda, Chile",other
+606,1,"Prado, Manuel",military
+607,1,"Villegas, Conrado",military
+608,1,"Roca, Julio Argentino",letrado
+609,1,"Levalle, Nicolás",military
+610,1,"Racedo, Eduardo",military
+611,1,"Rosas, Mariano",
+612,3,"Ministerio de Guerra, Argentina",academic
+613,3,Anales Científicos Argentinos,academic
+614,3,Anales de la Sociedad Científica Argentina,academic
+615,2,"Río Colorado, Argentina",geogfeature
+616,2,Río de la Plata,geogfeature
+617,1,"De la Barra, Eduardo",scientist
+618,1,"Philippi, Rodolfo A.",scientist
+619,1,"Edwards Ossandón, Augustín",other
+620,1,"Vaula, Federico",other
+621,1,"Echaurren, Francisco",politician
+622,1,"Reed, Edwyn Charles",scientist
+623,1,"Puga Borne, Federico",scientist
+624,1,"Porter Mosso, Carlos",scientist
+625,1,"Delfín, Federico",scientist
+626,1,"Philippi, Rodolfo Amando",scientist
+627,3,Museo de Historia Natural de Valparaíso,academic
+628,3,Liceo de Valparaíso,academic
+629,3,"Museo Nacional, Santiago de Chile",academic
+630,3,"Ministerio de Instrucción Pública, Chile",govt
+631,3,"Oficina Hidrográfica, Valparaíso",military
+632,3,Fuerza Naval de Chile,military
+633,3,"Smithsonian Institute, Washington D.C.",academic
+634,3,Museum of Budapest,academic
+635,3,"Academy of Natural History, Philadelphia",academic
+636,3,Mexican National Medical Institute,academic
+637,3,Revista Chilena de Historia Natural,socialcultural
+638,3,"Liceo Miguel Luis Amunátegui, Santiago de Chile",academic
+639,2,"Washington, D.C.",city
+640,2,Budapest,city
+641,2,Philadelphia,city
+642,2,Japan,country
+643,2,Cape Colony,other
+644,2,Ecuador,country
+645,2,Guayaquil,city
+646,2,Arkansas,region
+647,2,Britain,country
+648,2,"Valparaíso Province, Chile",region
+649,1,"Reed Rosa, Edwyn Pastor",scientist
+650,1,"Reed Rosa, Carlos Samuel",scientist
+651,3,"Bristol Museum, England",academic
+652,3,Museo de Concepción,academic
+653,3,Société Scientifique du Chili,academic
+654,3,Museo de Etnología y Antropología de Chile,academic
+655,1,"Bulnes, Manuel",politician
+656,1,"Vicuña Mackenna, Benjamín",politician
+657,1,"San Martín, Cosme",artist
+658,1,"Hostos, Eugenio M.",letrado
+659,1,"Orrego Luco, Augusto",letrado
+660,1,"O'Higgins, Bernardo",politician
+661,1,"De Valdivia, Pedro",other
+662,1,"Blanco, José Miguel",artist
+663,1,"Maturana, Marcos",military
+664,1,"Mochi, Giovanni",artist
+665,1,"AmunC!tegui, Miguel Luis",politician
+666,1,"Zubarán, Francisco",artist
+667,1,"Jordaens, Jakob",artist
+668,1,"Rubens, Peter Paul",artist
+669,1,Raymond Monvoisin,artist
+670,1,"Edwards, Arturo M.",letrado
+671,1,"Grez, Vicente",letrado
+672,1,"Subercaseaux, Ramón",artist
+673,1,"Valenzuela Puelma, Alfredo",artist
+674,1,"Correa, Rafael",artist
+675,1,"Child, Theodore",other
+676,1,"Mosby, Alfredo",artist
+677,1,"Lastarria, Luisa",artist
+678,1,"Galbrund, Alphonse Louis",artist
+679,1,"González Escobar, Juan Francisco",artist
+680,1,"Ortega, Pascual",artist
+681,1,"Mira, Magdalena",artist
+682,1,"Mira, Aurora",artist
+683,1,"Orrego Luco, Alberto",artist
+684,1,"Barros Arana, Diego",letrado
+685,1,"Castro, Celia",artist
+686,1,"Cousiño, Luis",other
+687,1,"Balmaceda Toro, Pedro",letrado
+688,3,"Museo Nacional de Pintura, Santiago de Chile",academic
+689,3,"Academia de Pintura, Santiago de Chile",academic
+690,3,"San Carlos Academy, Mexico",academic
+691,3,"French Mission, Brazil",academic
+692,3,"Comisión de Bellas Artes, Santiago de Chile",socialcultural
+693,3,"Sociedad Anónima Unión Artística, Santiago de Chile",socialcultural
+694,3,"Universidad de Chile, Santiago de Chile",academic
+695,3,"Instituto Nacional, Santiago de Chile",academic
+696,3,"Academy of Art, Florence",academic
+697,3,"Royal Academy, France",academic
+698,3,"Museo Histórico Nacional, Santiago de Chile",academic
+699,3,"El Mercurio, Valparaíso",socialcultural
+700,3,"Consejo de Instrucción Pública, Santiago de Chile",govt
+701,2,"Río Mapocho, Chile",geogfeature
+702,2,Athens,city
+703,2,Lima,city
+704,2,Atacama Desert,geogfeature
+705,2,"Parque Forestal, Santiago de Chile",other
+706,2,Florence,city
+707,1,"Campos, Miguel",artist
+708,1,"Cicarelli, Alejandro",artist
+709,1,"Gariot, Paul Césaire",artist
+710,1,"Orrego Luco, Elena",other
+711,3,"Museo de Pintura, Santiago de Chile",academic
+712,3,"Escuela de Bellas Artes, Santiago de Chile",academic
+713,1,"Lacour, Pierre",artist
+714,1,"Guérin, Pierre Narcise",artist
+715,1,"Festa, Domínica",artist
+716,1,"Engaña, Mariano",letrado
+717,1,"Filleul, Clara",artist
+718,1,"Kirchbach, Ernest",artist
+719,1,"Valenzuela Llanos, Alberto",artist
+720,1,"Blest Gana, Alberto",letrado
+721,1,"Velasco, Fanor",letrado
+722,1,Viel,politician
+723,1,"De Valdivia, Pedro",military
+724,1,"Wood, Carlos",artist
+725,1,"Portales, Diego",politician
+726,1,"Amunátegui, Luis Miguel",politician
+727,1,"Isabella, Queen of Spain",politician
+728,1,"Columbus, Christopher",other
+729,1,Caupolican,politician
+730,1,"Pinto, Aníbal",politician
+731,1,"Prat, Arturo",military
+732,1,"Urrutia, Basilio",politician
+733,1,"Phillips, Enrique",letrado
+734,3,"Biblioteca Nacional, Santiago de Chile",academic
+735,3,"Archivo de las Indias, Seville",academic
+736,3,"Museo Histórico-Indígena, Santiago de Chile",academic
+737,3,"Museo Nacional, Santiago",academic
+738,3,"Museo de Armas Antiguas, Santiago de Chile",military
+739,3,"Sección Museo Militar, Santiago de Chile",military
+740,3,"Museo Nacional, Lima",academic
+741,3,"Biblioteca Nacional, Lima",academic
+742,3,"Museo Militar de Chile, Santiago de Chile",military
+743,3,"Museo de Bellas Artes, Santiago de Chile",academic
+744,3,"Archivo Nacional, Santiago de Chile",academic
+745,2,Sevilla,city
+746,2,"Chacabuco, Chile",townvillage
+747,2,"Palacio de los Gobernadores, Santiago de Chile",other
+748,2,Southern Chile,region
+749,2,"Tierra del Fuego, Chile",region
+750,2,Abyssinia,country
+751,2,"Maipó, Chile",townvillage
+752,2,"Cerro de Santa Lucia, Santiago",geogfeature
+753,2,Viti Islands,geogfeature
+754,2,"Malleco, Chile",region
+755,2,"Cautin, Chile",region
+756,2,"Tarapacá, Chile",region
+757,2,"Callao, Peru",townvillage
+758,2,"Calle de Miraflores, Santiago",other
+759,2,"Palacio de la Real Audiencia, Santiago de Chile",other
+760,2,"Palacio de Armas, Santiago de Chile",other
+761,1,"Velasco, Manuel",scientist
+762,1,"Lavaysse, Juan José Dauxion",scientist
+763,1,"García Huidobro, Francisco",scientist
+764,1,"De Gorbea, Andres Antonio",scientist
+765,1,"De Borja Solar, Francisco",scientist
+766,1,"Germain, Philibert",scientist
+767,1,"Philippi, Federico",scientist
+768,1,"Philippi, Amando 2do",scientist
+769,1,"Maldonado, Roberto",military
+770,1,San Martin,military
+771,1,"Manns, Guillermo",other
+772,1,"Landbeck, Luis",scientist
+773,1,"Albert, Federico",scientist
+774,1,"Moore, Eduardo",scientist
+775,3,"Universidad de San Felipe, Santiago de Chile",academic
+776,3,"Quinta Normal de Agricultura, Santiago de Chile",commercialindustrial
+777,2,New Zealand,country
+778,2,"Maule, Chile",region
+779,2,Easter Island,geogfeature
+780,2,Asia,other
+781,2,Venezuela,country
+782,2,Cuzco,city
+783,2,Constantinople,city
+784,2,Syria,country
+785,2,"Colonial India, Dutch Administration",other
+786,1,"Philippi, Bernardo Eunom",scientist
+787,1,"Buch, Leopold von",scientist
+788,1,"Williams, Juan",military
+789,1,"Domeyko, Ignacio",scientist
+790,1,"Montt, Manuel",politician
+791,1,"Bello, Andrés",letrado
+792,1,"Cortés, Bernardino",scientist
+793,3,"Instituto Agrícola, Santiago de Chile",academic
+794,1,"Pereira Passos, Francisco",politician
+795,1,"Petit, Pierre",other
+796,1,"Bartholdi, Fréderic",artist
+797,1,"Eiffel, Gustave",artist
+798,1,"Rebouças, André",scientist
+799,1,"Russell, Andrew Joseph",artist
+800,1,"Klumb, Revert Henrique",artist
+801,1,"Klumb, Revert Henrique",
+802,1,"Ferrez, Marc",artist
+803,1,"Paula Bicalho, Francisco de",scientist
+804,1,D. Pedro II,politician
+805,1,"Teresa Cristina, Imperatriz",other
+806,1,"Melo e Souza, Francisco José de",other
+807,1,"Teresa Cristina, Imperatriz",
+808,1,"Ferreira Lage, Mariano Procópio",scientist
+809,3,"Museu da República, Rio de Janeiro",academic
+810,3,"Escola Politécnica, Rio de Janeiro",academic
+811,3,Union Pacific Railroad Company,commercialindustrial
+812,3,Central Pacific Railroad Company,commercialindustrial
+813,3,"Academia Imperial de Belas Artes, Rio de Janeiro",academic
+814,3,"Arsenal de Marinha da Corte, Brazil",govt
+815,3,"Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas, Brazil",govt
+816,3,"Inspetoria de Águas da Corte, Brazil",govt
+817,3,"Biblioteca Nacional, Rio de Janeiro",academic
+818,3,"União Indústria, Petrópolis",commercialindustrial
+819,2,"Promontory Point, Utah",townvillage
+820,2,Canudos,townvillage
+821,2,"Ilha das Cobras, Brazil",geogfeature
+822,2,"Corcovado, Brazil",geogfeature
+823,2,"Morro do Pedregulho, Brazil",geogfeature
+824,2,Petrópolis,city
+825,2,Juiz de Fora,city
+826,2,"Largo do Rocio, Rio de Janeiro",other
+827,2,"Praça Tiradentes, Rio de Janeiro",other
+828,2,"Largo de São Francisco de Paula, Rio de Janeiro",other
+829,1,"De la Barra, José Miguel",other
+830,1,"Álvarez, José Sixto (Fray Mocho)",letrado
+831,1,"Villamayor, Luis",other
+832,1,"Drago, Luis María",letrado
+833,1,"Dellepiane, Alberto",letrado
+834,1,"Payró, Roberto Jorge",letrado
+835,1,"Cané, Miguel",letrado
+836,1,"Sojo, Eduardo",letrado
+837,1,"Pellicer, Eustaquio",letrado
+838,1,"Mayol, Manuel",letrado
+839,2,"Gualeguaychú, Argentina",townvillage
+840,2,"Entre Ríos, Argentina",region
+841,1,"Garófalo, Raffaelle",scientist
+842,1,"Lombroso, Cesare",scientist
+843,3,"Imprenta del Departamento de Policía, Argentina",govt
+844,1,"Lugones, Leopoldo (hijo)",other
+845,1,"Falcón, Ramón",other
+846,6,painting,discourse
+847,1,"Castañeda, Francisco de Paula",letrado
+848,1,"Sastre, Marcos",letrado
+849,1,"Peña, Jacinto",letrado
+850,1,"Meyer, H.",artist
+851,1,"Stein, Henri",artist
+852,1,"Baudelaire, Charles",letrado
+853,1,"Daumier, Honoré",artist
+854,1,"Ramos Mejía, José María",letrado
+855,3,Salón Literario,socialcultural
+856,3,Asociación de Mayo,socialcultural
+857,3,Gabinete de Lectura de la Librería Argentina,socialcultural
+858,3,Club del Progreso,socialcultural
+859,1,"De Ángelis, Pedro",letrado
+860,1,"Vicuña Mackenna, Benjamín",other
+861,1,"Marcó del Pont, Francisco Casimiro",politician
+862,2,America,
+863,1,"De Léry, Jean",letrado
+864,1,"Thevet, André",letrado
+865,1,Carlos V,politician
+866,1,Felipe II,politician
+867,1,"Hernández, Francisco",scientist
+868,1,Fernando II,politician
+869,1,"Hurtado de Mendoza, Juan",letrado
+870,3,"Museo de Historia Natural, Santiago de Chile",academic
+871,3,"Louvre, Paris",academic
+872,3,British Museum,academic
+873,3,"Museoazul, Chiloé",academic
+874,2,"Toledo, Spain",city
+875,2,"Valladolid, Spain",city
+876,2,Brussels,city
+877,2,India,country
+878,2,Vienna,city
+879,2,"Innsbruck, Austria",city
+880,2,"Chiloé, Chile",region
+881,2,"Ancud, Chile",townvillage
+882,1,"Coutaret, Emilio",artist
+883,1,Maish Kensis,other
+884,1,"Ambrosetti, Juan Baustista",scientist
+885,1,"Holmberg, Eduardo Ladislao",letrado
+886,1,"Gómez, Indalecio",politician
+887,1,"Ambrosetti, Juan Bautista",letrado
+888,1,"Debenedetti, Salvador",scientist
+889,1,"Boman, Eric",scientist
+890,1,"Gálvez, Manuel",letrado
+891,1,"Barrès, Maurice",letrado
+892,3,"Facultad de Filosofía y Letras, Buenos Aires",academic
+893,3,"Museo Público, Buenos Aires",academic
+894,3,Universidad de Buenos Aire,academic
+895,2,Chaco,region
+896,2,Pampa,region
+897,2,"Monte Hermoso, Argentina",geogfeature
+898,2,"Tilcara, Argentina",townvillage
+899,2,"Quebrada de Humahuaca, Argentina",geogfeature
+900,2,"La Paya, Argentina",townvillage

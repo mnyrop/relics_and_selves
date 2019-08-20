@@ -1,0 +1,115 @@
+ArtID,Fname,Title,ASurName,AForeNames,artType,date
+1,AGN99-01,Carta de Rosario Cabral de Superí a Angel Justiniano Carranza donde le da noticias sobre los últimos momentos de Esteban Echeverría y le hace entrega del bastón que éste usó en Montevideo.,Cabral de Superí,Rosario,histPiece,2001-12-20 12:25:26
+2,AGN99-02,Carta de Eustaquio Frías a Adolfo P. Carranza donde le envía datos biográficos de José Félix Bogado.,Frías,Eustaquio,histPiece,2001-12-20 12:25:26
+3,AGN99-03,"Carta de Isidoro Albarracín y otros a Martín de Gainza, donde le comunican su nombramiento para integrar la Comisión pro Monumento a Domingo F. Sarmiento.",Albarracín,Isidoro,histPiece,2001-12-20 12:25:27
+4,AGN99-04,"Carta de J. León Mera a Adolfo P. Carranza, donde le informa sobre sus trabajos literarios y hace referencias al canje de libros",Mera,J. León,histPiece,2001-12-20 12:25:27
+5,AGN99-05,"Carta de J. Isidoro Laverde Amaya a Adolfo P. Carranza, donde le comunica que acepta el canje de libros",Laverde Amaya,J. Isidoro,histPiece,2001-12-20 12:25:27
+6,AGN99-06,"Carta de Simón Andrés de Santa Cruz a Donato Alvarez, donde lo felicita por el ascenso y le obsequia las charreteras que usó su padre. A continuación carta de Donato Alvarez a Adolfo P. Carranza donando las charreteras al Museo",Alvarez,Donato,histPiece,2001-12-20 12:25:28
+7,AGN99-07,"Carta de Andrés Lamas al intendente Francisco Seeber, donde renuncia al cargo de la Comisión Organizadora del Museo Histórico",,,histPiece,2001-12-20 12:25:28
+8,AGN99-08,"Decreto del Departamento de Gobierno del 13/11/1877 aceptando colecciones donadas por Moreno y nombrándolo Director del nuevo Museo Antropológico y Arqueológico de Buenos Aires. Firmado por C. Casares, Vicente G. Quesada, y certificando la copia B. Del Campo",Casares,C.,histPiece,2001-12-20 12:25:28
+9,AGN99-09,Factura de Luis de Seruy al Museo por pinturas y cuadros realizados,De Seruy,Luis,histPiece,2001-12-20 12:25:28
+10,AGN99-10,Carta al jefe de estadísticas de la Provincia de Buenos Aires,Moreno,Francisco Pascasio,histPiece,2001-12-20 12:25:29
+11,AGN99-11,Carta de Carlos Berg a Francisco P. Moreno,Berg,Carlos,histPiece,2001-12-20 12:25:29
+12,AGN99-12,Carta de Carlos V. Burmeister del 9 de abril de 1892 a Francisco P. Moreno,Burmeister,Carlos V.,histPiece,2001-12-20 12:25:29
+13,AGN99-13,"De un borrador de Andrés Lamas, donde hace consideraciones para que se lleve a cabo la Exposición Continental de 1879 (finalmente realizada en 1882, los editores)",Lamas,Andrés,histPiece,2001-12-20 12:25:30
+14,AGN99-14,"Carta de Andrés Lamas al dr. Carlos Damico, Ministro de Gobierno de la Provincia de Buenos Aires. Membrete ""Presidente de la Comisión Histórica""",Lamas,Andrés,histPiece,2001-12-20 12:25:30
+15,AGN99-15,"Carta del arquitecto Enrique Dalmonte al Dr. D. Andrés Lamas, vicepresidente de la Comisión Orgaizadora",Dalmonte,Enrique,histPiece,2001-12-20 12:25:30
+16,AGN99-16,"Carta del Ministro de Justicia, Culto e Instrucción Pública, Eduardo Wilde, a Andrés Lamas",Wilde,Eduardo,histPiece,2001-12-20 12:25:31
+17,AGN99-17,Carta del Ministro de Gobierno de la Provincia de Buenos Aires al Dr. Andrés Lamas y documentos sobre la repartición del museo y archivo entre la provincia y el gobierno nacional,Jorge,Antonio,histPiece,2001-12-20 12:25:31
+18,AGN99-18,"Carta del Ministro de Justicia, Culto e Instrucción Pública de la Nación, Eduardo Wilde, a Andrés Lamas",Wilde,Eduardo,histPiece,2001-12-20 12:25:32
+19,AGN99-19,Carta de Adolfo P. Carranza a Andrés Lamas con motivo de la fundación del Museo Histórico,Carranza,Adolfo P.,histPiece,2001-12-20 12:25:32
+20,AGN99-20,Giacomo Bove a Luis Caronti. Le comunica que se va a fundar en Roma un Museo Científico y solicita su ayuda para reunir elementos que representen la cultura autóctona de la Argentina,Carranza,Adolfo P.,histPiece,2001-12-20 12:25:32
+21,Andermann01,The Museu Nacional at Rio de Janeiro,Andermann,Jens,article,2001-12-20 12:25:35
+22,Andermann01A,João VI (1767 - 1826),Andermann,Jens,bgPiece,2001-12-20 12:25:36
+23,Andermann01B,"Andrada e Silva, José Bonifácio de (1763 - 1838)",Andermann,Jens,bgPiece,2001-12-20 12:25:36
+24,Andermann01C,Karl Friedrich Philipp von Martius(1794 - 1868),Andermann,Jens,bgPiece,2001-12-20 12:25:37
+25,Andermann01D,Pedro I (1798 - 1834),Andermann,Jens,bgPiece,2001-12-20 12:25:37
+26,Andermann01E,The Museu Nacional and its European employees,Andermann,Jens,bgPiece,2001-12-20 12:25:37
+27,Andermann01F,The Museu Nacional in the view of foreign naturalists,Andermann,Jens,bgPiece,2001-12-20 12:25:38
+28,Andermann02,"Argentine Literature and the 'Conquest of the Desert', 1872-1896",Andermann,Jens,article,2001-12-20 12:25:40
+29,Andermann03,The History Show at the Continental Exhibition of 1882 and the National History Museum at Buenos Aires,Andermann,Jens,article,2001-12-20 12:25:42
+30,Andermann04,"The Museo de La Plata, 1877-1906",Andermann,Jens,article,2001-12-20 12:25:45
+31,Andermann05,"The Museo Nacional de Ciencias Naturales, Buenos Aires",Andermann,Jens,article,2002-01-08 17:03:21
+32,BN99-01,La Exposición Continental o clausura hasta la primavera,,,histPiece,2001-12-20 12:25:49
+33,BN99-02,Exposición Continental - las secciones europeas en la Exposición - Inglaterra,,,histPiece,2001-12-20 12:25:50
+34,BN99-03,Museo de Bellas Artes - La inauguración de ayer,,,histPiece,2001-12-20 12:25:50
+35,BN99-04,Museo Industrial Argentino,,,histPiece,2001-12-20 12:25:50
+36,BN99-05,"La Exposición Continental en Buenos Aires - Ayer, hoy y mañana - 1",De Garay,Blasco,histPiece,2001-12-20 12:25:51
+37,BN99-06,La Exposición en Buenos Aires - 2 - Primeras impresiones,De Garay,Blasco,histPiece,2001-12-20 12:25:51
+38,BN99-07,Noticias - La Exposición anoche,,,histPiece,2001-12-20 12:25:51
+39,BN99-08,La inauguración de hoy - los discursos,Avellaneda,Nicolás,histPiece,2001-12-20 12:25:52
+40,BN99-09,Exposición Histórica - Acuerdo extraordinario de la Comisión,Lamas,Andrés,histPiece,2001-12-20 12:25:52
+41,BN99-10,La Exposición Continental en Buenos Aires - 3. La Capital a la ventura,De Garay,Blasco,histPiece,2001-12-20 12:25:53
+42,BN99-11,Las Bellas Artes en la Exposición,C.,F.,histPiece,2001-12-20 12:25:53
+43,BN99-12,Las Bellas Artes en la Exposición -2-,C.,F.,histPiece,2001-12-20 12:25:54
+44,BN99-13,"Las Bellas Artes en la Exposición -8- La Sociedad ""Estímulo de Bellas Artes""",C.,F.,histPiece,2001-12-20 12:25:54
+45,BN99-14,"Las Bellas Artes en la Exposición -8- La Sociedad ""Estímulo de Bellas Artes"" - Segunda Parte",C.,F.,histPiece,2001-12-20 12:25:54
+46,BN99-15,La Exposición Continental en Buenos Aires - La sección del Brasil,De Garay,Blasco,histPiece,2001-12-20 12:25:55
+47,BN99-16,La Argentina y su inmigración,,,histPiece,2001-12-20 12:25:55
+48,BN99-17,Paleontología argentino,,,histPiece,2001-12-20 12:25:56
+49,BN99-18,Crónica parisiense,De Méry,Jules,histPiece,2001-12-20 12:25:56
+50,BN99-19,Museo de La Plata. El último informe de su director,Moreno,Francisco Pascasio,histPiece,2001-12-20 12:25:56
+51,BN99-20,La Exposición Rural Argentina,Zeballos,Estanislao Severo,histPiece,2001-12-20 12:25:57
+52,BN99-21,La Segunda Exposición Agrícola-Ganadera en la Sala de Comercio del Mercado 11 de Septiembre,,,histPiece,2001-12-20 12:25:58
+53,BN99-22,Museo Nacional de Armas,,,histPiece,2001-12-20 12:25:58
+54,BN99-23,Comisión Argentina de la Exposición de París.,Cambaceres,E.,histPiece,2001-12-20 12:25:58
+55,BN99-24,El Museo Histórico Nacional,,,histPiece,2001-12-20 12:25:59
+56,BN99-25,Gran Rifa en la Exposición Continental,,,histPiece,2001-12-20 12:25:59
+57,Caceres01a,"Viña del Mar, de suburbio ferroviario a ciudad balneario: momentos de un itinerario (1860-1935)",Cáceres Q.,Gonzalo,article,2001-12-20 12:26:00
+58,Cortes01,"Iconografía de la violencia: imágenes de la guerra, imágenes del desvío",Cortés Rocca,Paola,article,2003-04-08 09:48:38
+59,Cortes01A,"Cayetano Santos Godino, ""El petiso orejudo"" ( 1895-1944)",Cortés Rocca,Paola,bgPiece,2001-12-20 12:26:03
+60,Cortes01B,Amadeo Gras (1805 - 1871),Cortés Rocca,Paola,bgPiece,2001-12-20 12:26:03
+61,Cortes01C,Alejandro Korn (1860-1936),Cortés Rocca,Paola,bgPiece,2001-12-20 12:26:03
+62,Cortes01D,Francisco Veyga (1866-1948),Cortés Rocca,Paola,bgPiece,2001-12-20 12:26:04
+63,Cortes01E,José Ingenieros (1877-1925),Cortés Rocca,Paola,bgPiece,2001-12-20 12:26:04
+64,Cortes01F,Ángel Vicente (Chacho) Peñaloza (1798-1963),Cutolo,Vicente Osvaldo,bgPiece,2001-12-20 12:26:04
+65,Cortes01G,Antonio Pozzo (1830-1910),Cortés Rocca,Paola,bgPiece,2001-12-20 12:26:05
+66,Cortes01H,Justo José de Urquiza (1801-1870),Cutolo,Vicente Osvaldo,bgPiece,2001-12-20 12:26:05
+67,FernandezBravo02,Argentina y Brasil en la Exposición Universal de París de 1889,Fernández Bravo,Alvaro,article,2001-12-20 12:26:07
+68,HP-Correo01,Algunos antecedentes sobre la Exposicion Internacional,De Larraya,Guillermo C.,histPiece,2001-12-20 12:26:08
+69,HP-Correo02,"Discursos pronunciados en la Apertura de la Exposicion. Discurso del Presidente del Directorio de la Exposicion, Señor Rafael Larraín Moxó",Larraín Moxó,Rafael,histPiece,2001-12-20 12:26:09
+70,HP-Correo03,"Contestacion del Presidente de la República, señor Federico Errázuriz",Errázuriz,Federico,histPiece,2001-12-20 12:26:09
+71,HP-Correo04,La Abdicacion del Supremo Dr. Don Bernardo O'Higgins. Cuadro histórico nacional del Sr. M. A. Caro.,M. A. V. J.,,histPiece,2001-12-20 12:26:09
+72,HP-Correo05,Los pintores chilenos,G,M,histPiece,2001-12-20 12:26:10
+73,HP-Correo06,Clausura de la Exposicion,,,histPiece,2001-12-20 12:26:10
+74,MBA99-01,Catálogo del Museo Nacional de Bellas Artes,,,histPiece,2001-12-20 12:26:11
+75,MBA99-02,Carta de Valentina S. de Mendilaharzu a Eduardo Schiaffino,,,histPiece,2001-12-20 12:26:12
+76,MBA99-03,Carta de Eduardo Schiaffino a Valentina S. de Mendilaharzu,,,histPiece,2001-12-20 12:26:12
+77,MBA99-04,Decreto de creación del Museo Nacional de Bellas Artes,Bermejo Uriburu,Antonio,histPiece,2001-12-20 12:26:13
+78,MCN99-02,Anuncio Oficial publicado por Bernardino Rivadavia en la Gaceta Ministerial del 7 de agosto de 1812,Rivadavia,Bernardino,histPiece,2001-12-20 12:26:13
+79,MCN99-03,Circular cursado por Bernardino Rivadavia antes del anuncio oficial disponiendo la fundación del Museo Público del 7 de agosto de 1812,Rivadavia,Bernardino,histPiece,2001-12-20 12:26:13
+80,MCN99-04,Decreto de Bernardino Rivadavia del 31 de diciembre de 1823,Rivadavia,Bernardino,histPiece,2001-12-20 12:26:13
+81,MHN99-02,Prospecto,Carranza,Adolfo P.,histPiece,2001-12-20 12:26:14
+82,MHN99-03,Retrato del Gral. San Martín,Carranza,Adolfo P.,histPiece,2001-12-20 12:26:14
+83,MLP99-01,Carta de Francisco P. Moreno al Ministro de Gobierno Manuel B. Gonnet,Moreno,Francisco Pascasio,histPiece,2001-12-20 12:26:15
+84,MLP99-02,Carta de Francisco P. Moreno al Ministro de Obras Públicas Manuel B. Gonnet,Moreno,Francisco Pascasio,histPiece,2001-12-20 12:26:15
+85,Podgorny01,Vitrinas y administración. Los criterios de organización de las colecciones antropológicas del Museo de La Plata entre 1897 y 1930,Podgorny,Irina,article,2001-12-20 12:26:17
+86,Podgorny01A,Félix Outes y Carlos Bruch,Podgorny,Irina,bgPiece,2001-12-20 12:26:17
+87,Robles01,"Modernización Agraria en el Chile del Siglo XIX. Los ""Hacendados Progresistas"" y La Exposición Nacional de Agricultura de 1869",Robles,Claudio,article,2002-01-08 17:03:23
+88,Rodriguez01,Estanislao S. Zeballos: un desierto para la nación,Rodríguez,Fermín,article,2002-01-08 17:03:26
+89,Rodriguez01A,Julio Argentino Roca,Cutolo,Vicente Osvaldo,bgPiece,2001-12-20 12:26:22
+90,Schell01,El Museo de Historia Natural de Valparaíso,Schell,Patience A.,article,2002-01-08 17:03:28
+91,Schell01A,Edwyn Charles Reed,Schell,Patience A.,bgPiece,2001-12-20 12:26:24
+92,Schell02,"High Art and High Ideals: The Museo Nacional de Pintura and the Development of Art in Chile, 1870-1890",Schell,Patience A.,article,2001-12-20 12:26:26
+93,Schell02A,Manuel Antonio Caro,Schell,Patience A.,bgPiece,2001-12-20 12:26:27
+94,Schell02B,"Pedro Lira, Painter and Critic",Schell,Patience A.,bgPiece,2001-12-20 12:26:28
+95,Schell02C,Raymond Monviosin,Schell,Patience A.,bgPiece,2001-12-20 12:26:28
+96,Schell02D,"Alfredo Valenzuela Puelma, uno de los 'Cuatro Maestros'",Schell,Patience A.,bgPiece,2001-12-20 12:26:28
+97,Schell03,Exhuming the Past with the Future in Mind: History Exhibitions and Museums in late nineteenth-century Chile,Schell,Patience A.,article,2001-12-20 12:26:30
+98,Schell04,In the Service of the Nation: Santiago's Museo Nacional,Schell,Patience A.,article,2001-12-20 12:26:32
+99,Schell04A,The Philippi Family in Chile,Schell,Patience A.,bgPiece,2001-12-20 12:26:34
+100,Song01,APOTEOSIS DE LA PATRIA,Matta,Guillermo,histPiece,2001-12-20 12:26:34
+101,Song02,Himno de la Inauguracion de la Esposicion Internacional,Morla Vicuña,Carlos,histPiece,2001-12-20 12:26:34
+102,Song03,Hímno a la Industria con motivo de la Esposición Internacional presentado en el certámen de la Academia de Bellas Letras,Ossa,Francisco Javier,histPiece,2001-12-20 12:26:35
+103,Song04,Himno (con motivo de la esposicion de 1875) Premiada,De la Barra,E. (Eduardo?),histPiece,2001-12-20 12:26:35
+104,Turazzi01,Os melhoramentos da nação e a documentação fotográfica das obras públicas no Brasil,Turazzi,Maria Inez,article,2002-01-08 17:03:29
+105,Rogers01,"Galería de retratos para el Estado: Identidades y escritura en ""casos"" argentinos de fines del siglo XIX (1887-1897)",Rogers,Geraldine,article,2003-04-08 09:48:54
+106,Rogers01A,José S. Álvarez (Fray Mocho),Rogers,Geraldine,bgPiece,2003-04-08 09:49:03
+107,Rogers01B,"""Clases peligrosas""",Rogers,Geraldine,bgPiece,2003-04-08 09:49:10
+108,Rogers01C,Criminología y delincuencia en la Argentina de entresiglos,Rogers,Geraldine,bgPiece,2003-04-08 09:49:17
+109,Roman01,Papel picado: palabras e imágenes en la prensa satírica del siglo XIX,Roman,Claudia Andrea,article,2003-04-08 09:49:27
+110,Roman01A,El Diario de la Tarde y el Salón Literario,Roman,Claudia Andrea,bgPiece,2003-04-08 09:49:38
+111,Schell03sp,Desenterrando el Futuro con el pasado en Mente. Exhibiciones y Museos en Chile a finales del siglo XIX,Schell,Patience A.,article,2004-08-02 15:04:31
+112,Mason01,Un paseo por el Patio de Recuerdos del Museo Azul de las islas de Chiloé,Mason,Peter,essay,2004-08-02 14:44:50
+113,Mason02,Un paseo por el Patio de Recuerdos del Museo Azul de las islas de Chiloé,Mason,Peter,article,2004-08-02 14:53:30
+114,AndermannFernandez01,"Objetos entre tiempos: Coleccionismo, soberanía y saberes del margen en el Museo de La Plata y el Museo Etnográfico",Andermann,Jens,essay,2004-10-04 12:46:16

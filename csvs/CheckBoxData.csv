@@ -1,0 +1,99 @@
+cbdID,category,displayName,dbName
+1,Contents,abundance,cnts_abundance
+2,Contents,agriculture,cnts_agriculture
+3,Contents,army,cnts_army
+4,Contents,arts,cnts_arts
+5,Contents,artisan crafts,cnts_artisan_crafts
+6,Contents,barbarism,cnts_barbarism
+7,Contents,border,cnts_border
+8,Contents,civilization,cnts_civilization
+9,Contents,classical themes,cnts_classical_themes
+10,Contents,climate,cnts_climate
+11,Contents,conquest,cnts_conquest
+12,Contents,colonial era,cnts_colonial_era
+13,Contents,desert,cnts_desert
+142,Contents,elite culture,
+141,Key Concept,commodity,
+16,Contents,empire,cnts_empire
+17,Contents,expeditions,cnts_expeditions
+140,Key Concept,production,
+19,Contents,fauna & flora,cnts_fauna_and_flora
+20,Contents,festivals,cnts_festivals
+21,Contents,fossils,cnts_fossils
+22,Contents,frontier,cnts_frontier
+23,Contents,gendered allegories,cnts_gendered_allegories
+24,Contents,heroes,cnts_heroes
+26,Contents,immigration,cnts_immigration
+27,Contents,independence era,cnts_independence_era
+28,Contents,indians,cnts_indians
+29,Contents,industry,cnts_industry
+30,Contents,infrastructure,cnts_infrastructure
+32,Contents,material culture,cnts_material_culture
+33,Contents,mestizaje,cnts_mestizaje
+34,Contents,navy,cnts_navy
+35,Contents,parks,cnts_parks
+36,Contents,popular culture,cnts_popular_culture
+37,Contents,prehistory,cnts_prehistory
+38,Contents,race,cnts_race
+39,Contents,religion,cnts_religion
+41,Contents,rural,cnts_rural
+42,Contents,science,cnts_science
+43,Contents,slavery,cnts_slavery
+44,Contents,tropics,cnts_tropics
+45,Contents,urban,cnts_urban
+46,Contents,warfare,cnts_warfare
+47,Contents,work,cnts_work
+48,Key Concept,body,kycpt_body
+49,Key Concept,heritage,kycpt_heritage
+50,Key Concept,monument,kycpt_monument
+51,Key Concept,nature,kycpt_nature
+52,Key Concept,origin,kycpt_origin
+53,Key Concept,the other,kycpt_the_other
+54,Key Concept,relic,kycpt_relic
+55,Key Concept,space,kycpt_space
+56,Discourse,anthropology,dsc_anthropology
+57,Discourse,economics,
+58,Discourse,education,dsc_education
+59,Discourse,fine arts,dsc_fine_arts
+60,Discourse,folklore,dsc_folklore
+61,Discourse,geography,dsc_geography
+62,Discourse,history,dsc_history
+63,Discourse,landscape,dsc_landscape
+64,Discourse,literature,dsc_literature
+65,Discourse,medicine,dsc_medicine
+66,Discourse,natural history,dsc_natural_history
+68,Discourse,philology,dsc_philology
+69,Discourse,progress,dsc_progress
+70,Discourse,social question,dsc_social_question
+71,Discourse,other,dsc_other
+72,Medium,architecture,mad_architecture
+73,Medium,cartography,mad_cartography
+74,Medium,collecting,mad_collecting
+75,Medium,exhibitions,mad_exhibitions
+76,Medium,museums,mad_museums
+77,Medium,painting,mad_painting
+78,Medium,photography,mad_photography
+79,Medium,sculpture,mad_sculpture
+80,Medium,writing,mad_writing
+138,Discourse,palaeontology,
+135,Medium,musical instrument,
+136,Medium,illustration,
+137,Contents,archive,
+133,Contents,exhibitions,
+124,Discourse,orientalism/exoticism,
+134,Contents,collectors,
+94,Contents,leisure,cnts_leisure
+131,Contents,disease,
+132,Discourse,collecting,
+129,Contents,province,
+130,Contents,capital,
+122,Contents,republicanism,
+128,Contents,family,
+127,Contents,hygiene,
+119,Discourse,exoticism,
+126,Discourse,Sports,
+139,Medium,Letter from Franciso P. Moreno to Ramón,
+125,Contents,indigenous culture,
+123,Contents,republic,
+109,Contents,commodity,cnts_commodity
+110,Contents,health and disease,cnts_health_disease
