@@ -1,0 +1,42 @@
+BODY { background: #FFFFFD;
+       font-family: Garamond, Times, Serif; }
+
+.editorial { font-family: Arial, Helvetica, Sans-serif; }
+
+A:link { color: #660000;
+         font-weight: bold;
+         text-decoration: none; }
+
+A:visited { color: #336666;
+            font-weight: bold;
+            text-decoration: none; }
+
+A:hover { color: #FFCC00;
+          background: #FFFFFF;
+          text-decoration: none; }
+
+A:link.external { text-decoration: underline; }
+
+A:visited.external { text-decoration: underline; }
+
+A:hover.external { text-decoration: underline; }
+
+.bibliography { margin-left: 20pt;
+       		margin-right: 0;
+       		margin-top: 0;
+       		margin-bottom: 0; }
+
+.bibliography P { text-indent: -20pt; }
+
+.toc, .tocSelected { text-align: right;
+                     font-family: Arial, Helvetica, Sans-serif;
+		     font-size: 10pt;
+                     font-weight: bold; }                     
+
+.toc A:visited { color: #660000; }
+
+.toc A:hover { color: #FFCC00; }
+
+.tocSelected { background: #CCCCCC; 
+               color: #336666; }
+
